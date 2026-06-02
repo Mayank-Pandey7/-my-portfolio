@@ -15,20 +15,19 @@ export default function About() {
           21 y/o cs undergrad
           <br />
           i like building things that I genuinely enjoy using and that
-          leave some kind of impact
+          leave some kind of impact on people
         </p>
 
         <p className="text-gray-300 leading-relaxed tracking-wide">
-          mostly working with code, sometimes bikes
+          learning through trials and error
           <br />
-          I like building things that I genuinely enjoy using and that
-          leave some kind of impact
+          you'll find me riding through the hills, reading about the things i nothing know about
+          or planning my next trip into the mountains
         </p>
 
         <p className="text-gray-300 leading-relaxed tracking-wide">
           into
-          books, media, cameras, and understanding how things work under the
-          hood
+          books, media, photography, bikes, travel, etc....
         </p>
       </div>
     </section>
