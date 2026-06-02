@@ -6,7 +6,7 @@ const experience = [
     position: "Web Development Intern",
     date: "(sep 2024 - oct 2024)",
     description:
-      "Worked on responsive web interfaces using HTML and CSS, focusing on clean design, usability, and cross-device compatibility. Gained practical experience in frontend development and modern web design principles.",
+      "worked on responsive web interfaces using HTML and CSS, focusing on clean design, usability, and cross-device compatibility. Gained practical experience in frontend development and modern web design principles.",
   },
 ];
 
