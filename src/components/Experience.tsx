@@ -8,30 +8,6 @@ const experience = [
     description:
       "Worked on responsive web interfaces using HTML and CSS, focusing on clean design, usability, and cross-device compatibility. Gained practical experience in frontend development and modern web design principles.",
   },
-  {
-    title: "devdoq",
-    position: "cofounder",
-    date: "(july 2025 - present)",
-    description:
-      "a tool that turns your codebase into living, ai generated docs synced to your repo. never outdated, always clear, and ready to onboard newcomers effortlessly",
-    link: "https://devdoq.com",
-  },
-  {
-    title: "aizonics",
-    position: "full stack developer",
-    date: "(may 2025 - july 2025)",
-    description:
-      "built a scalable api architecture with failure fallbacks and ratelimits, ensuring high availability and performance",
-    link: "https://aizonics.com",
-  },
-  {
-    title: "greendot aviation",
-    position: "chief vfx artist",
-    date: "(sep 2022 - aug 2023)",
-    description:
-      "worked on creating visual effects for air crash investigation documentaries",
-    link: "https://www.youtube.com/@GreenDotAviation/",
-  },
 ];
 
 export default function Experience() {
