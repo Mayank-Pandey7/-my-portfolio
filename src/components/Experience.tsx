@@ -14,7 +14,7 @@ export default function Experience() {
   return (
     <div className="text-white mb-16">
       <h1 className="text-2xl font-bold text-white mb-8">
-        <span className="text-green-300">&gt;</span> work
+        <span className="text-green-300">&gt;</span> work experience
       </h1>
       <div className="grid grid-cols-1 gap-2">
         {experience.map((exp) => (
