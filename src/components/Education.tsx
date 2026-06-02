@@ -1,7 +1,7 @@
 const edu = [
   {
     title: "Uttarakhand technical university",
-    position: "b.tech computer science & rngineering",
+    position: "b.tech computer science & engineering",
     date: "2022 - 2026",
     link: "https://uktech.ac.in/",
   },
