@@ -21,7 +21,7 @@ const socials = [
   {
     title: "resume",
     username: "resume",
-    link: "https://puang.in/resume.pdf",
+    link: "https://my-portfolio-ten-iota-82.vercel.app//resume.pdf",
     icon: RiPagesFill,
   },
   {
