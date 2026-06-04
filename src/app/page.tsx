@@ -23,7 +23,7 @@ export default function HomePage() {
           </div>
         </div>
         <div>
-          <h1 className="text-2xl font-bold">maynak pandey</h1>
+          <h1 className="text-2xl font-bold">mayank pandey</h1>
           <a
             href="https://x.com/maynkio"
             target="_blank"
