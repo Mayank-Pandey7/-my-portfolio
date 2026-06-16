@@ -8,6 +8,15 @@ const experience = [
     description:
       "worked on responsive web interfaces using HTML and CSS, focusing on clean design, usability, and cross-device compatibility. Gained practical experience in frontend development and modern web design principles.",
   },
+
+   {
+    title: "Octanet Services Pvt. Ltd.",
+    position: "Frontend Development Intern",
+    date: "(july 2025 - sep 2024)",
+    description:
+      "Designed responsive user interfaces in Figma and converted them into interactive web pages using JavaScript and React.js.",
+      "Collaborated with the design team to improve user experience by creating reusable UI components.",
+  },
 ];
 
 export default function Experience() {
