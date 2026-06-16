@@ -24,18 +24,4 @@ export const projectList = [
     link: "https://calender-one-self.vercel.app/",
   },
 
-  {
-    title: "gooseboard",
-    description:
-      "a minimal whiteboard application for quick sketching and collaboration",
-    technologies: ["typescript"],
-    link: "https://gooseboard.puang.in",
-  },
-  {
-    title: "roboart",
-    description:
-      "a basic random avatar generator which generates avatar in 4 different sets when hash is provided",
-    technologies: ["python"],
-    link: "https://github.com/puang59/roboart",
-  },
 ];

@@ -82,7 +82,7 @@ export default async function Post({
             url: `https://www.puang.in/blog/${post.slug}`,
             author: {
               "@type": "Person",
-              name: "Karan Kumar",
+              name: "Mayank Pandey",
             },
           }),
         }}

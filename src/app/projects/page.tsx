@@ -19,7 +19,7 @@ export const metadata = {
   openGraph: {
     images: [
       {
-        url: "https://www.puang.in/og/home?title=projects",
+        url: "https://mynk.is-a.dev/og/home?title=projects",
       },
     ],
   },
