@@ -10,7 +10,7 @@ const experience = [
   },
 
    {
-    title: "Octanet Services Pvt. Ltd.",
+    title: "TechBuzz Ideas.",
     position: "Frontend Development Intern",
     date: "(july 2025 - sep 2024)",
     description:
