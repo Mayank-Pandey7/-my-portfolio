@@ -15,7 +15,7 @@ const experience = [
     date: "(july 2025 - sep 2024)",
     description:
       "Designed responsive user interfaces in Figma and converted them into interactive web pages using JavaScript and React.js.",
-      "Collaborated with the design team to improve user experience by creating reusable UI components.",
+      "Collaborated with the design team to improve user experience by creating reusable UI components."
   },
 ];
 
